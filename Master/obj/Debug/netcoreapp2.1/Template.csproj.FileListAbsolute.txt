@@ -1,0 +1,14 @@
+/Users/armandovila/Documents/ProjGitGud/Template/bin/Debug/netcoreapp2.1/Template.deps.json
+/Users/armandovila/Documents/ProjGitGud/Template/bin/Debug/netcoreapp2.1/Template.runtimeconfig.json
+/Users/armandovila/Documents/ProjGitGud/Template/bin/Debug/netcoreapp2.1/Template.runtimeconfig.dev.json
+/Users/armandovila/Documents/ProjGitGud/Template/bin/Debug/netcoreapp2.1/Template.dll
+/Users/armandovila/Documents/ProjGitGud/Template/bin/Debug/netcoreapp2.1/Template.pdb
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.csprojAssemblyReference.cache
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.csproj.CoreCompileInputs.cache
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.RazorAssemblyInfo.cache
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.RazorAssemblyInfo.cs
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.AssemblyInfoInputs.cache
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.AssemblyInfo.cs
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.RazorTargetAssemblyInfo.cache
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.dll
+/Users/armandovila/Documents/ProjGitGud/Template/obj/Debug/netcoreapp2.1/Template.pdb
